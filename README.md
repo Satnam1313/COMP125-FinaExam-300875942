@@ -1,4 +1,3 @@
-# COMP125-Lesson13
+# COMP125-FianlTest
 
-## CreateJS with TypeScript
 
